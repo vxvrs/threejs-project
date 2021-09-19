@@ -1,0 +1,13 @@
+canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+#loading {
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
